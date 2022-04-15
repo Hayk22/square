@@ -1,0 +1,19 @@
+.general {
+  display: grid;
+  position: relative;
+  gap: 100px;
+  justify-content: center;
+  align-content: center;
+  width: 50%;
+  height: 100vh;
+}
+.div1 {
+  position: absolute;
+  top: 50%;
+  left: 80%;
+}
+.div2 {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+}
